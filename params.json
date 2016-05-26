@@ -1,1 +1,7 @@
-{"name":"Welcome to Jon Irvine's GitHub Page","tagline":"Stuff I'm experimenting with","body":"This is a place where I play.","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Spotify Embed",
+  "tagline": "Here's what a Spotify embed look like",
+  "body": "<iframe src=\"https://embed.spotify.com/?uri=spotify%3Auser%3Ajonirvine%3Aplaylist%3A5RfuLlofTaBQgGzplPGGq0\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
